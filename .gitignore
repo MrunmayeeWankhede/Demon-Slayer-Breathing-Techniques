@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+models/
+controller-settings.json
+*.log
+*.part
+.DS_Store
+.env
+.env.*
+!.env.example
+recordings/
+*.mov
+*.mp4
+*.toe
+*.tox

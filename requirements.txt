@@ -1,0 +1,10 @@
+# CPU Hands compatibility set for Python 3.11/3.12, including Apple Silicon.
+mediapipe==0.10.21
+opencv-contrib-python==4.11.0.86
+numpy==1.26.4
+jax==0.4.35
+jaxlib==0.4.35
+python-osc
+vosk
+sounddevice
+certifi
