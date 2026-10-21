@@ -2,6 +2,8 @@
 
 A Demon Slayer-inspired TouchDesigner interface controlled by your hands and voice. Say a breathing style, then use a pinch, open palm, or fist to change its visual form. Moving your hand moves the effect; moving faster increases its intensity.
 
+<img src="https://i.redd.it/wgoilgst8tzd1.jpeg" alt="Alt Text" width="450">
+
 The project includes nine styles and 27 named variations, a mouse demo, offline speech recognition, and an optional camera view that puts you behind the effects for recording.
 
 ## Styles and controls
@@ -65,4 +67,4 @@ The base interface and Mac hand/voice controller were reported working during de
 
 The Mac compatibility setup pins MediaPipe 0.10.21 and uses its legacy CPU Hands pipeline. This avoids the native Metal initialization crash encountered during setup. It is a compatibility workaround, not a guarantee for every Mac or future dependency version.
 
-This is an unofficial fan project. No anime footage, images, or audio are bundled. See [THIRD_PARTY.md](THIRD_PARTY.md) for dependencies and attribution.
+This is an unofficial fan made project. No anime footage, images, or audio are bundled. See [THIRD_PARTY.md](THIRD_PARTY.md) for dependencies and attribution.
