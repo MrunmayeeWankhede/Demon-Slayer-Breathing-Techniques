@@ -8,7 +8,7 @@ The project includes nine styles and 27 named variations, a mouse demo, offline 
 
 ## Styles and controls
 
-**Flame · Water · Mist · Stone · Love · Wind · Serpent · Insect · Sound**
+**Mist · Wind · Stone · Flame · Sound · Love · Water · Insect · Serpent**
 
 “Fire” also selects Flame. Say one style at a time and pause briefly; phrases such as “water breathing” work too.
 
